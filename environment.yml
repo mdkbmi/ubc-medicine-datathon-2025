@@ -1,0 +1,16 @@
+name: ubc-medicine-datathon
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9.*
+  - ipykernel
+  - matplotlib
+  - pandas
+  - numpy
+  - scikit-learn
+  - pytorch
+  - torchvision
+  - pip
+  - pip:
+      - torchsummary
+  
