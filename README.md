@@ -51,12 +51,12 @@ Our team is formed by a group of graduate and undergraduate students at the Univ
 backgrounds in allied health, data science, engineering, medicine, and social sciences. This repository showcases 
 the collaborative efforts of our interdisciplinary team.
 
-- Alison Luo (@AlisonLuo)
-- Danish Karlin Isa (@mdkbmi)
+- Alison Luo [@AlisonLuo]
+- Danish Karlin Isa [@mdkbmi]
 - Lucy Hui
 - Morris Huang
-- Robin Matheson (@robinmatheson)
-- Shannon Pflueger (@Shan-non)
+- Robin Matheson [@robinmatheson]
+- Shannon Pflueger [@Shan-non]
 
 ## About UBC Medicine Datahon 2025
 
