@@ -10,17 +10,7 @@ detected in time. By leveraging AI, this tool aims to assist healthcare workers 
 potentially improving patient outcomes—especially in regions with limited access to radiologists.
 
 This project is done as part of the [UBC Medicine Datathon 2025](https://datascienceandhealth.ubc.ca/events/ubc-medicine-datathon)
-organised by [UBC Data Science and Health](https://datascienceandhealth.ubc.ca). 
-
-## About UBC Medicine Datahon 2025
-
-The UBC Medicine Datathon brings together students and professionals from diverse health disciplines and data-related 
-fields to tackle healthcare challenges through data-driven approaches. This interdisciplinary event offers a welcoming space 
-for participants to apply their skills and learn from their fellow participants.
-
-In this event, participants work in diverse teams, gain hands-on experience, and contribute to innovative 
-solutions in healthcare and technology. In the datathon, participants were given approximately 10 hours to conceptualise, 
-prototype and present our product from a selection of 3 different datasets.
+organised by [UBC Data Science and Health](https://datascienceandhealth.ubc.ca).
 
 ### Our dataset
 
@@ -67,6 +57,16 @@ the collaborative efforts of our interdisciplinary team.
 - Morris Huang
 - Robin Matheson @robinmatheson
 - Shannon Pflueger @Shan-non
+
+## About UBC Medicine Datahon 2025
+
+The UBC Medicine Datathon brings together students and professionals from diverse health disciplines and data-related 
+fields to tackle healthcare challenges through data-driven approaches. This interdisciplinary event offers a welcoming space 
+for participants to apply their skills and learn from their fellow participants.
+
+In this event, participants work in diverse teams, gain hands-on experience, and contribute to innovative 
+solutions in healthcare and technology. In the datathon, participants were given approximately 10 hours to conceptualise, 
+prototype and present our product from a selection of 3 different datasets.
 
 ## License
 
